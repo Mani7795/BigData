@@ -1,6 +1,6 @@
 # BigData
- Assignments worked in Big Data 
-The Assignment 1 folder focuses on data cleaning and the utilization of the MapReduce and Dusk functions for big data processing. It contains the following files:
+## Assignments worked in Big Data 
+### The Assignment 1 folder focuses on data cleaning and the utilization of the MapReduce and Dusk functions for big data processing. It contains the following files:
 
 data_cleaning.py: This file contains code for cleaning and preprocessing large datasets. It includes techniques such as data normalization, handling missing values, and removing outliers.
 
@@ -10,7 +10,7 @@ dusk_functions.py: This file includes code snippets demonstrating the usage of t
 
 Feel free to explore these files and adapt the code to suit your specific requirements for data cleaning, MapReduce, and Dusk.
 
-The Assignment 2 folder focuses on different search techniques and the application of divide-and-conquer algorithms for processing large datasets. It contains the following files:
+### The Assignment 2 folder focuses on different search techniques and the application of divide-and-conquer algorithms for processing large datasets. It contains the following files:
 
 sequential_search.py: This file contains code for implementing sequential search algorithms for big data processing. Sequential search is a basic search technique that iterates through a dataset sequentially to find specific items.
 
